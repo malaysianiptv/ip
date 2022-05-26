@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 1 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176360?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 1 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176360?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 10 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/368400?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 10 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368400?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 11 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368401?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 11 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/368401?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 12 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176362?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 12 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176362?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 13 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176361?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 13 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176361?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 14 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227660?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 14 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/227660?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 15 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/227661?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 15 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227661?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 16 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/227662?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 16 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227662?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 17 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227663?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 17 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/227663?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 18 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227664?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 18 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/227664?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 19 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/339251?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 19 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/339251?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 2 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176359?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 2 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176359?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 20 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/339255?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 20 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/339255?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 3 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176358?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 3 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176358?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 4 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176357?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 4 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176357?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 5 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176356?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 5 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176356?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 6 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176355?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 6 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/176355?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 7 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/309263?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 7 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/309263?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 8 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368398?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 8 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/368398?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 9 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/368399?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , TELEKOM PPV 9 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368399?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 1 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390489?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 1 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390489?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 10 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390480?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 10 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390480?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 11 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390479?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 11 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390479?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 12 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390478?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 12 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390478?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 13 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390477?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 13 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390477?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 14 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390476?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 14 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390476?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 15 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390475?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 15 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390475?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 16 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390474?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 16 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390474?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 17 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390473?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 17 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390473?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 18 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390472?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 18 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390472?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 19 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390471?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 19 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390471?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 2 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390488?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 2 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390488?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 20 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390470?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 20 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390470?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 3 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390487?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 3 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390487?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 4 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390486?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 4 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390486?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 5 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390485?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 5 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390485?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 6 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390484?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 6 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390484?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 7 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390483?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 7 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390483?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 8 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390482?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 8 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390482?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 9 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/Boraibrahim/oX6HuontcE/390481?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , VIP TELEKOM PPV 9 HD (Only Live Event)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/390481?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV KSW FIGHTS (Match Time)[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288428?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , Viaplay PPV 1[Geo-Blocked]
+http://a.stroj-bt.com:89/azot85@wp.pl/Lt9yM6XvNM/15894?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , Cinema 40 PPV FHD[Geo-Blocked]
+http://iptvmedia.live:8080/12810/7f788911/285127?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 1 EN[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282789?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 1 Spanish[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282788?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 2 EN[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282787?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 2 Spanish[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282786?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 3 EN[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282785?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 3 Spanish[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282784?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 4 EN[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282783?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 4 Spanish[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282782?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 5 EN[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282781?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV 5 Spanish[Geo-Blocked]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282780?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , PPV5[Geo-Blocked]
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136919?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , USA PPV01[Geo-Blocked] 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/5597?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title=" , USA PPV02[Geo-Blocked]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/5598?checkedby:iptvcat.com
