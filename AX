@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1, ABC Nashville TN (WKRN-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_NASHVILLE_TN_WKRN/video.m3u8
+#EXTINF:-1, ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1, 23 ABC Bakersfield CA (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1, 30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1, 12 News Beaumont TX (KBMT)
+https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
+#EXTINF:-1, CBS NEWS (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1, CBS Nashville TN (WTVF-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_NASHVILLE_TN_WTVF/tracks-v5a1/mono.m3u8
+#EXTINF:-1, CBS News (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1, WCBS-DT1 (CBS 2) (1080p)
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+#EXTINF:-1, WNBC-DT1 (NBC 4) (1080p)
+https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+#EXTINF:-1, 30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1, FOX 13 Memphis TN (WHBQ-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1, FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, FrightFlix (720p)
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8 
+#EXTINF:-1, Absolute Reality by WE TV (1080p)
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, AccuWeather Now (1080p)
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1, Ace TV (KCKS-LD3) (480p)
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1, Adult Swim East (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, Adult Swim Last Stream On The Left (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
+#EXTINF:-1, Adult Swim Off The Air (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1, Adult Swim West (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, Adult Swim Your Pretty Face Is Going To Hell (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
+#EXTINF:-1, Adventure Sports TV (360p)
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1, AFV (720p)
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1, AMC East (720p)
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-
+east-1/6240731308001/playlist.m3u8
+#EXTINF:-1, Vice East
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1, AMC Presents (720p)
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, America vs. Addiction (720p)
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1, Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1, beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1, Blaze TV (720p)
+https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1, Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1, Bloomberg TV US Politics Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1, bon appÃ©tit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bounce XL (720p)
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master
+#EXTINF:-1, Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, bspoketv (1080p) [Not 24/7]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1, Bumblebee TV AutoMoto (720p)
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
