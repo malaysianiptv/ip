@@ -56,6 +56,38 @@ https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1, AMC East (720p)
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+EXTINF:-1,  HD East[Geo-Blocked]
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, Show Extreme[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2953?checkedby:iptvcat.com
+#EXTINF:-1, Show Family Zone[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2954?checkedby:iptvcat.com
+#EXTINF:-1, Show Beyond[Geo-Blocked]
+http://mains.services:2086/kixy2030/u8zC9nvB69/92536?checkedby:iptvcat.com
+#EXTINF:-1, Show Next[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955?checkedby:iptvcat.com
+#EXTINF:-1, Showtime[Geo-Blocked]
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136832?checkedby:iptvcat.com
+#EXTINF:-1, Show Showcase[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2956?checkedby:iptvcat.com
+#EXTINF:-1, Show West[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957?checkedby:iptvcat.com
+#EXTINF:-1, HBO[Geo-Blocked]
+http://mains.services:2086/kixy2030/u8zC9nvB69/92572?checkedby:iptvcat.com
+#EXTINF:-1, HBO 2[Geo-Blocked]
+http://mains.services:2086/kixy2030/u8zC9nvB69/92571?checkedby:iptvcat.com
+#EXTINF:-1, HBO Family[Geo-Blocked]
+http://mains.services:2086/kixy2030/u8zC9nvB69/92570?checkedby:iptvcat.com
+#EXTINF:-1", HBO Comedy[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943?checkedby:iptvcat.com
+#EXTINF:-1, HBO SIGNATURE[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946?checkedby:iptvcat.com
+#EXTINF:-1, Cinemax East[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940?checkedby:iptvcat.com
+#EXTINF:-1, Cinemax West[Geo-Blocked]
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941?checkedby:iptvcat.com
+#EXTINF:-1, Premier Sport 2
+http://elattar-tv.org:8080/LUCKYG/22376727484869/67732?checkedby:iptvcat.com
 #EXTINF:-1, Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1, AMC Presents (720p)
